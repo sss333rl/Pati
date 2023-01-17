@@ -19,4 +19,5 @@ chmod +x tcp.sh
 ## Acknowledgements
  Unforked from https://github.com/atrandys/trojan. Thanks to @atrandys.
 
-## aff link：https://goo.gs/SupportMe 
+## vps aff link：https://goo.gs/gcvps
+## vpn aff link：https://goo.gs/SupportMe 
